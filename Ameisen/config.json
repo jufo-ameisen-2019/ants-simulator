@@ -1,0 +1,19 @@
+{
+  "Standard":
+    {
+      "Ameisen": 1000,
+      "Futterstellen": 100,
+      "Schnitt Futtermenge": 3000,
+      "Geschwindigkeit": 1.0
+    },
+  "Schau":
+    {
+      "Ameisen": 500,
+      "Futterstellen": 100,
+      "Schnitt Futtermenge": 2000,
+      "Bauten": 4,
+      "Geschwindigkeit": 0.5,
+      "Minutenintervall": 5,
+      "Margin": 200
+    }
+}

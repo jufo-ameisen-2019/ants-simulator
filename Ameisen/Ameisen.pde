@@ -155,7 +155,7 @@ class Ant {
   boolean goHome = false;
   //ID der zu folgenden Ameise
   boolean folge = false;
-  int guide; 
+  int guide;
 
   Ant(int id, Bau home) {
     this.id = id;

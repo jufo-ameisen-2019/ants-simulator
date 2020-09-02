@@ -5,7 +5,7 @@ The Ants Simulator running on a screen at our booth.
 <img src="https://raw.githubusercontent.com/jufo-ameisen-2019/Jufo-Ameisen-2019/master/Logo/Logo.png">
 
 ## Authors:
-- [Jonathan Treffler](https://github.com/TessyPowder)
+- [Jonathan Treffler](https://github.com/JonathanTreffler)
 - [Bruno Trautsch](https://github.com/alwus)
 - Philip Hesse
 
